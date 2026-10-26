@@ -1,0 +1,915 @@
+# Hero Slider Plugin — Arabic Translation
+# Copyright (C) 2025 Mahmoud Mahsob / Marslia
+# This file is distributed under the same license as the Hero Slider Plugin package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Hero Slider Plugin 1.2.0\n"
+"Report-Msgid-Bugs-To: https://mrslia.com/\n"
+"POT-Creation-Date: 2025-05-14 12:00:00+0000\n"
+"PO-Revision-Date: 2025-05-14 12:00:00+0000\n"
+"Last-Translator: Mahmoud Mahsob\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
+"n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Cascade AI\n"
+"X-Domain: hero-slider-plugin\n"
+
+#: hero-slider-plugin.php — CPT Labels
+msgid "Hero Slides"
+msgstr "الشرائح الرئيسية"
+
+msgid "Hero Slide"
+msgstr "شريحة رئيسية"
+
+msgid "Add New"
+msgstr "أضف جديد"
+
+msgid "Add New Hero Slide"
+msgstr "إضافة شريحة رئيسية جديدة"
+
+msgid "Edit Hero Slide"
+msgstr "تعديل الشريحة الرئيسية"
+
+msgid "New Hero Slide"
+msgstr "شريحة رئيسية جديدة"
+
+msgid "View Hero Slide"
+msgstr "عرض الشريحة الرئيسية"
+
+msgid "Search Hero Slides"
+msgstr "البحث في الشرائح الرئيسية"
+
+msgid "No hero slides found."
+msgstr "لم يتم العثور على شرائح رئيسية."
+
+msgid "No hero slides found in Trash."
+msgstr "لم يتم العثور على شرائح رئيسية في سلة المهملات."
+
+msgid "All Hero Slides"
+msgstr "جميع الشرائح الرئيسية"
+
+msgid "Slide Image"
+msgstr "صورة الشريحة"
+
+msgid "Set slide image"
+msgstr "تعيين صورة الشريحة"
+
+msgid "Remove slide image"
+msgstr "إزالة صورة الشريحة"
+
+msgid "Use as slide image"
+msgstr "استخدام كصورة شريحة"
+
+#: hero-slider-plugin.php — Meta Box: Button
+msgid "Slide Button Settings"
+msgstr "إعدادات زر الشريحة"
+
+msgid "Button Text"
+msgstr "نص الزر"
+
+msgid "Button URL"
+msgstr "رابط الزر"
+
+msgid "Contact Us"
+msgstr "تواصل معنا"
+
+msgid "If left empty, the slider will use default values from the shortcode."
+msgstr "إذا تُرك فارغاً، سيستخدم السلايدر القيم الافتراضية من الكود المختصر."
+
+#: hero-slider-plugin.php — Meta Box: Background & Overlay
+msgid "Background & Overlay"
+msgstr "الخلفية والتراكب"
+
+msgid "Background Image"
+msgstr "صورة الخلفية"
+
+msgid "Choose"
+msgstr "اختيار"
+
+msgid "Remove"
+msgstr "إزالة"
+
+msgid "Overlay Color"
+msgstr "لون التراكب"
+
+msgid "Overlay Opacity (0–1)"
+msgstr "شفافية التراكب (0–1)"
+
+msgid "Select Background"
+msgstr "اختر الخلفية"
+
+msgid "Use image"
+msgstr "استخدم الصورة"
+
+#: hero-slider-plugin.php — Instructions Page
+msgid "Shortcode Instructions"
+msgstr "تعليمات الكود المختصر"
+
+msgid "Instructions"
+msgstr "التعليمات"
+
+msgid "Hero Slider — Shortcode Instructions"
+msgstr "السلايدر الرئيسي — تعليمات الكود المختصر"
+
+msgid "Learn how to display the hero slider anywhere on your site."
+msgstr "تعرّف على كيفية عرض السلايدر الرئيسي في أي مكان على موقعك."
+
+msgid "Quick Start"
+msgstr "البداية السريعة"
+
+msgid "Go to <strong>Hero Slides → Add New</strong> and create your slides."
+msgstr "انتقل إلى <strong>الشرائح الرئيسية ← أضف جديد</strong> وأنشئ شرائحك."
+
+msgid "Set the <strong>Title</strong>, <strong>Content or Excerpt</strong>, <strong>Featured Image</strong>, and optionally configure the <strong>Background</strong> and <strong>Button</strong>."
+msgstr "عيّن <strong>العنوان</strong>، <strong>المحتوى أو المقتطف</strong>، <strong>الصورة البارزة</strong>، واختيارياً اضبط <strong>الخلفية</strong> و<strong>الزر</strong>."
+
+msgid "Paste the shortcode below into any <strong>Page</strong>, <strong>Post</strong>, or <strong>Widget</strong>."
+msgstr "الصق الكود المختصر أدناه في أي <strong>صفحة</strong> أو <strong>مقالة</strong> أو <strong>ودجت</strong>."
+
+msgid "Basic Shortcode"
+msgstr "الكود المختصر الأساسي"
+
+msgid "Copy and paste this shortcode to display the slider with default settings:"
+msgstr "انسخ والصق هذا الكود المختصر لعرض السلايدر بالإعدادات الافتراضية:"
+
+msgid "Copy"
+msgstr "نسخ"
+
+msgid "Copied!"
+msgstr "تم النسخ!"
+
+msgid "Advanced Shortcode (All Options)"
+msgstr "الكود المختصر المتقدم (جميع الخيارات)"
+
+msgid "Use this version to customize every option:"
+msgstr "استخدم هذا الإصدار لتخصيص كل خيار:"
+
+msgid "Available Parameters"
+msgstr "المعاملات المتاحة"
+
+msgid "Parameter"
+msgstr "المعامل"
+
+msgid "Default"
+msgstr "الافتراضي"
+
+msgid "Description"
+msgstr "الوصف"
+
+msgid "Number of slides to display. Use -1 for all."
+msgstr "عدد الشرائح المراد عرضها. استخدم -1 لعرض الكل."
+
+msgid "Enable auto-play. Values: yes / no"
+msgstr "تفعيل التشغيل التلقائي. القيم: yes / no"
+
+msgid "Auto-play interval in milliseconds."
+msgstr "الفاصل الزمني للتشغيل التلقائي بالمللي ثانية."
+
+msgid "Show navigation dots. Values: yes / no"
+msgstr "إظهار نقاط التنقل. القيم: yes / no"
+
+msgid "Show navigation arrows. Values: yes / no"
+msgstr "إظهار أسهم التنقل. القيم: yes / no"
+
+msgid "Slider height in pixels."
+msgstr "ارتفاع السلايدر بالبكسل."
+
+msgid "Maximum number of words for the description."
+msgstr "الحد الأقصى لعدد الكلمات في الوصف."
+
+msgid "Default button label (can be overridden per slide)."
+msgstr "نص الزر الافتراضي (يمكن تجاوزه لكل شريحة)."
+
+msgid "Default button link (can be overridden per slide)."
+msgstr "رابط الزر الافتراضي (يمكن تجاوزه لكل شريحة)."
+
+msgid "Attach slider to the top of the page behind the header."
+msgstr "تثبيت السلايدر في أعلى الصفحة خلف الهيدر."
+
+msgid "Header height offset in pixels (used with stick_to_top)."
+msgstr "إزاحة ارتفاع الهيدر بالبكسل (تُستخدم مع stick_to_top)."
+
+msgid "Sort order. Values: ASC / DESC"
+msgstr "ترتيب الفرز. القيم: ASC / DESC"
+
+msgid "Sort field. Values: menu_order / date / title / rand"
+msgstr "حقل الفرز. القيم: menu_order / date / title / rand"
+
+msgid "Use in PHP Templates"
+msgstr "الاستخدام في قوالب PHP"
+
+msgid "To display the slider directly in a theme template file:"
+msgstr "لعرض السلايدر مباشرة في ملف قالب الثيم:"
+
+msgid "Tips"
+msgstr "نصائح"
+
+msgid "Use the \"Order\" field (Page Attributes) on each slide to control display order."
+msgstr "استخدم حقل \"الترتيب\" (خصائص الصفحة) في كل شريحة للتحكم في ترتيب العرض."
+
+msgid "Each slide can have its own button text and URL — set them in \"Slide Button Settings\"."
+msgstr "يمكن لكل شريحة أن تحتوي على نص ورابط زر خاص — اضبطها في \"إعدادات زر الشريحة\"."
+
+msgid "The Featured Image appears as the main visual; the Background Image fills the slide background."
+msgstr "تظهر الصورة البارزة كعنصر بصري رئيسي؛ بينما صورة الخلفية تملأ خلفية الشريحة."
+
+msgid "If only one slide exists, the slider controls (arrows/dots) are hidden automatically."
+msgstr "إذا كانت هناك شريحة واحدة فقط، يتم إخفاء عناصر التحكم (الأسهم/النقاط) تلقائياً."
+
+msgid "Use the Excerpt field for a custom description; otherwise the post content is used."
+msgstr "استخدم حقل المقتطف لوصف مخصص؛ وإلا سيتم استخدام محتوى المقالة."
+
+#: hero-slider-plugin.php — Visual Effects
+msgid "Particles & Beams"
+msgstr "جسيمات وأشعة"
+
+msgid "Floating particles with diagonal light beams — ideal for industry & technology."
+msgstr "جسيمات متحركة مع أشعة ضوئية قطرية — مناسب للصناعة والتقنية."
+
+msgid "Bokeh"
+msgstr "بوكيه"
+
+msgid "Soft glowing circles drifting slowly — ideal for photography & creative."
+msgstr "دوائر ناعمة متوهجة تطفو ببطء — مناسب للتصوير والإبداع."
+
+msgid "Constellation"
+msgstr "كوكبة نجوم"
+
+msgid "Stars connected with lines when nearby — ideal for space & luxury."
+msgstr "نقاط مضيئة مع خطوط تربط القريبة منها — مناسب للفضاء والفخامة."
+
+msgid "Digital Rain"
+msgstr "مطر رقمي"
+
+msgid "Thin vertical streaks falling down — ideal for technology & digital."
+msgstr "خطوط رفيعة تتساقط عمودياً — مناسب للتكنولوجيا والرقمنة."
+
+msgid "Flowing Waves"
+msgstr "موجات انسيابية"
+
+msgid "Smooth horizontal sine waves — ideal for medical, wellness & ocean."
+msgstr "موجات متدفقة أفقياً — مناسب للطب والصحة والبحار."
+
+msgid "Geometric Shapes"
+msgstr "أشكال هندسية"
+
+msgid "Floating rotating polygons — ideal for architecture & engineering."
+msgstr "مضلعات دوّارة طافية — مناسب للهندسة والعمارة."
+
+msgid "Snowfall"
+msgstr "تساقط ثلجي"
+
+msgid "Gentle falling snow particles — ideal for clean & minimal designs."
+msgstr "جسيمات بيضاء تتساقط بلطف — مناسب للتصاميم النظيفة والبسيطة."
+
+msgid "Fireflies"
+msgstr "يراعات متوهجة"
+
+msgid "Pulsing glowing dots with varying brightness — ideal for nature & organic."
+msgstr "نقاط متوهجة تنبض بسطوع متغير — مناسب للطبيعة والعضوية."
+
+msgid "Neural Network"
+msgstr "شبكة عصبية"
+
+msgid "Glowing nodes with connecting mesh lines and light rays — ideal for technology, data & AI."
+msgstr "نقاط متوهجة مع خطوط شبكية متصلة وأشعة ضوئية — مناسب للتكنولوجيا والبيانات والذكاء الاصطناعي."
+
+msgid "No Effect"
+msgstr "بدون تأثير"
+
+msgid "Disable all animated canvas effects."
+msgstr "إيقاف جميع التأثيرات البصرية المتحركة."
+
+#: hero-slider-plugin.php — Settings Page
+msgid "Slider Settings"
+msgstr "إعدادات السلايدر"
+
+msgid "Settings"
+msgstr "الإعدادات"
+
+msgid "Autoplay"
+msgstr "التشغيل التلقائي"
+
+msgid "Enabled"
+msgstr "مفعّل"
+
+msgid "Disabled"
+msgstr "معطّل"
+
+msgid "Delay Between Slides (ms)"
+msgstr "المهلة بين الشرائح (مللي ثانية)"
+
+msgid "Applies when autoplay is enabled. Example: 5500"
+msgstr "تُطبّق عند تفعيل التشغيل التلقائي. مثال: 5500"
+
+msgid "Transition Duration (ms)"
+msgstr "مدة الانتقال (مللي ثانية)"
+
+msgid "Default Slider Height (px)"
+msgstr "الارتفاع الافتراضي للسلايدر (بكسل)"
+
+msgid "Animation Curve (CSS Easing)"
+msgstr "منحنى الحركة (CSS Easing)"
+
+msgid "Supports ease, linear, ease-in, ease-out, ease-in-out or cubic-bezier(...) values."
+msgstr "يدعم قيم ease، linear، ease-in، ease-out، ease-in-out أو cubic-bezier(...)."
+
+msgid "Featured Image Size"
+msgstr "مقاس الصورة البارزة"
+
+msgid "Select the image size used in the slider (e.g. full, large, medium_large) to reduce file size when needed."
+msgstr "حدد مقاس الصورة المستخدمة في السلايدر (مثل full، large، medium_large) لتقليل حجم الملف عند الحاجة."
+
+msgid "Use Custom Size Instead"
+msgstr "استخدام مقاس مخصص بدلاً منه"
+
+msgid "No"
+msgstr "لا"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "When enabled, the preset size above will be ignored and the dimensions below will be used."
+msgstr "عند التفعيل، سيتم تجاهل المقاس المحدد أعلاه واستخدام الأبعاد أدناه."
+
+msgid "Custom Dimensions (W × H) in pixels"
+msgstr "الأبعاد المخصصة (عرض × ارتفاع) بالبكسل"
+
+msgid "Leave fields at 0 to cancel the effect. Note: WordPress may not create a new size automatically and will use the closest available size."
+msgstr "اترك الحقول على 0 لإلغاء التأثير. ملاحظة: قد لا ينشئ ووردبريس مقاساً جديداً تلقائياً وسيستخدم أقرب مقاس متاح."
+
+msgid "Visual Effect"
+msgstr "التأثير البصري"
+
+msgid "Academy"
+msgstr "أكاديمي"
+
+msgid "Soft knowledge nodes with gentle connecting lines and floating orbs — ideal for education, universities & e-learning."
+msgstr "عقد معرفية ناعمة مع خطوط ربط لطيفة ودوائر طافية — مناسب للتعليم والجامعات والتعليم الإلكتروني."
+
+msgid "Autumn Leaves"
+msgstr "أوراق الخريف"
+
+msgid "Colorful falling leaves gently drifting and rotating — ideal for nature, seasons & organic themes."
+msgstr "أوراق ملونة متساقطة تتطاير وتدور بلطف — مناسب للطبيعة والفصول والموضوعات العضوية."
+
+msgid "Exhaust Smoke"
+msgstr "عادم السيارات"
+
+msgid "Thick dark smoke rising and dissipating — ideal for industrial, automotive & urban themes."
+msgstr "دخان داكن كثيف يتصاعد ويتبدد — مناسب للموضوعات الصناعية والسيارات والحضرية."
+
+# ─── New strings (v1.2.0) ───
+
+msgid "Order"
+msgstr "الترتيب"
+
+msgid "No slider groups found. <a href=\"%s\">Create a group first</a>, then assign this slide."
+msgstr "لم يتم العثور على مجموعات سلايدر. <a href=\"%s\">أنشئ مجموعة أولاً</a>، ثم عيّن هذه الشريحة."
+
+msgid "— Select a group —"
+msgstr "— اختر مجموعة —"
+
+msgid "You must choose a group manually. The slide will not be saved as published until a group is selected."
+msgstr "يجب اختيار مجموعة يدوياً. لن تُحفظ الشريحة كمنشورة حتى يتم اختيار مجموعة."
+
+msgid "Please select a slider group before publishing this slide."
+msgstr "يرجى اختيار مجموعة سلايدر قبل نشر هذه الشريحة."
+
+msgid "Featured Image — Mobile"
+msgstr "الصورة البارزة — الموبايل"
+
+msgid "Control featured image visibility by screen size."
+msgstr "تحكم في ظهور الصورة البارزة حسب حجم الشاشة."
+
+msgid "Show on all screens"
+msgstr "إظهار على جميع الشاشات"
+
+msgid "Default — image visible on all devices."
+msgstr "الوضع الافتراضي — الصورة ظاهرة في كل الأجهزة."
+
+msgid "Hide on mobile (under 768px)"
+msgstr "إخفاء على الموبايل (أقل من 768px)"
+
+msgid "Image hides on phones and small tablets; text expands to fill the screen."
+msgstr "تختفي الصورة على الجوال والتابلت الصغير، ويتوسع النص ليملأ الشاشة."
+
+msgid "Hide on very small screens (under 576px)"
+msgstr "إخفاء على الشاشات الصغيرة جداً (أقل من 576px)"
+
+msgid "Hides only on small phones like iPhone SE; stays visible on tablets."
+msgstr "تختفي فقط على الهواتف الصغيرة مثل iPhone SE، وتبقى ظاهرة على التابلت."
+
+msgid "This setting is independent for each slide."
+msgstr "هذا الإعداد مستقل لكل شريحة على حدة."
+
+msgid "Text Colors"
+msgstr "ألوان النصوص"
+
+msgid "Leave empty to use the assigned slider group colors."
+msgstr "اترك الحقل فارغاً لاستخدام ألوان مجموعة الشرائح المعيّنة."
+
+msgid "Title Color"
+msgstr "لون العنوان"
+
+msgid "Description Color"
+msgstr "لون نص الوصف"
+
+msgid "Button Text Color"
+msgstr "لون نص الزر"
+
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+msgid "Go to <strong>Hero Slides → Slider Groups</strong> and create a group with your preferred settings."
+msgstr "انتقل إلى <strong>الشرائح الرئيسية ← مجموعات السلايدر</strong> وأنشئ مجموعة بالإعدادات التي تفضلها."
+
+msgid "Go to <strong>Hero Slides → Add New</strong>, assign the slide to a group, then set the title, content, and image."
+msgstr "انتقل إلى <strong>الشرائح الرئيسية ← أضف جديد</strong>، عيّن الشريحة لمجموعة، ثم اضبط العنوان والمحتوى والصورة."
+
+msgid "Paste the group shortcode below into any <strong>Page</strong>, <strong>Post</strong>, or <strong>Widget</strong>."
+msgstr "الصق كود المجموعة المختصر أدناه في أي <strong>صفحة</strong> أو <strong>مقالة</strong> أو <strong>ودجت</strong>."
+
+msgid "Copy and paste this shortcode to display a slider group (group ID is required):"
+msgstr "انسخ والصق هذا الكود المختصر لعرض مجموعة سلايدر (معرف المجموعة مطلوب):"
+
+msgid "Required"
+msgstr "مطلوب"
+
+msgid "Slider group ID from Hero Slides → Slider Groups."
+msgstr "معرف مجموعة السلايدر من الشرائح الرئيسية ← مجموعات السلايدر."
+
+msgid "The group attribute is required. Example: [hero_slider group=\"12345\"] — find the ID under Hero Slides → Slider Groups."
+msgstr "خاصية group مطلوبة. مثال: [hero_slider group=\"12345\"] — تجد المعرف تحت الشرائح الرئيسية ← مجموعات السلايدر."
+
+msgid "Slider group settings are missing."
+msgstr "إعدادات مجموعة السلايدر مفقودة."
+
+msgid "Navigation Controls"
+msgstr "عناصر التنقل"
+
+msgid "Dots"
+msgstr "النقاط"
+
+msgid "Arrows"
+msgstr "الأسهم"
+
+msgid "Show"
+msgstr "إظهار"
+
+msgid "Hide"
+msgstr "إخفاء"
+
+msgid "Slide Transition Effect"
+msgstr "تأثير انتقال الشرائح"
+
+msgid "Fade"
+msgstr "تلاشي"
+
+msgid "Slide"
+msgstr "انزلاق"
+
+msgid "Zoom & Fade"
+msgstr "تكبير وتلاشي"
+
+msgid "Flip (3D)"
+msgstr "قلب (ثلاثي الأبعاد)"
+
+msgid "Choose how slides transition. Zoom/Flip add subtle CSS animations on top of fade."
+msgstr "اختر طريقة انتقال الشرائح. التكبير/القلب يضيفان حركات CSS خفيفة فوق التلاشي."
+
+msgid "Applied to all slides in this group. Text and images scale to fit."
+msgstr "يُطبّق على جميع الشرائح في هذه المجموعة. يتكيّف النص والصور مع الارتفاع."
+
+msgid "Controls the text and icon color inside the button. Default: white."
+msgstr "يتحكم في لون النص والأيقونة داخل الزر. الافتراضي: أبيض."
+
+msgid "Default text colors for all slides. Leave empty to use theme defaults. Can be overridden per slide."
+msgstr "ألوان النص الافتراضية لجميع الشرائح. اتركها فارغة لاستخدام افتراضيات القالب. يمكن تجاوزها لكل شريحة."
+
+msgid "Featured Image on Mobile"
+msgstr "الصورة البارزة على الموبايل"
+
+msgid "Show on all screens (default)"
+msgstr "إظهار على جميع الشاشات (افتراضي)"
+
+msgid "Hide on mobile — under 768px"
+msgstr "إخفاء على الموبايل — أقل من 768px"
+
+msgid "Hide on very small screens — under 576px"
+msgstr "إخفاء على الشاشات الصغيرة جداً — أقل من 576px"
+
+msgid "Control featured image visibility on small screens for all slides in this group. You can override this per slide on the slide edit screen."
+msgstr "تحكم في ظهور الصورة البارزة على الشاشات الصغيرة لجميع الشرائح في هذه المجموعة. يمكن تجاوز هذا الإعداد لكل شريحة من صفحة تعديل الشريحة."
+
+msgid "Edit Group"
+msgstr "تعديل المجموعة"
+
+msgid "Add Group"
+msgstr "إضافة مجموعة"
+
+msgid "Duplicate"
+msgstr "استنساخ"
+
+msgid "Duplicate Group"
+msgstr "استنساخ المجموعة"
+
+msgid "New Group Name"
+msgstr "اسم المجموعة الجديدة"
+
+msgid "Copy of %s"
+msgstr "نسخة من %s"
+
+msgid "Create a new group with the same settings as \"%s\". Slides are not copied."
+msgstr "إنشاء مجموعة جديدة بنفس إعدادات \"%s\". لا يتم نسخ الشرائح."
+
+msgid "All group settings (layout, colors, portal, effects, etc.) will be copied. Assign slides to the new group manually."
+msgstr "تُنسخ جميع إعدادات المجموعة (التخطيط، الألوان، البوابة، التأثيرات، إلخ). عيّن الشرائح للمجموعة الجديدة يدوياً."
+
+msgid "Please enter a name for the new group."
+msgstr "يرجى إدخال اسم للمجموعة الجديدة."
+
+msgid "Could not duplicate the group. The name may already exist."
+msgstr "تعذّر استنساخ المجموعة. قد يكون الاسم موجوداً مسبقاً."
+
+msgid "Group not found."
+msgstr "المجموعة غير موجودة."
+
+msgid "Group duplicated successfully. Assign slides to this group as needed."
+msgstr "تم استنساخ المجموعة بنجاح. عيّن الشرائح لهذه المجموعة حسب الحاجة."
+
+msgid "Shortcode:"
+msgstr "الكود المختصر:"
+
+msgid "These settings apply only to this group and its slides."
+msgstr "تُطبّق هذه الإعدادات على هذه المجموعة وشرائحها فقط."
+
+# ─── v1.2.1 Portal + alignment + blend modes ───
+
+msgid "Text Alignment"
+msgstr "محاذاة النص"
+
+msgid "Button Alignment"
+msgstr "محاذاة الزر"
+
+msgid "Left"
+msgstr "يسار"
+
+msgid "Center"
+msgstr "وسط"
+
+msgid "Right"
+msgstr "يمين"
+
+msgid "Title Alignment"
+msgstr "محاذاة العنوان"
+
+msgid "Alignment of title and description text."
+msgstr "محاذاة نص العنوان والوصف."
+
+msgid "Alignment of the slide title."
+msgstr "محاذاة عنوان الشريحة."
+
+msgid "Image Centered (background only, text centered)"
+msgstr "صورة مركزية (خلفية فقط، نص في المنتصف)"
+
+msgid "Classic shows the image as a full background. Split places text on a colored half and the image on the other half. Image Centered hides the featured image, removes all background overlays, and displays the background image at full quality with centered text."
+msgstr "النمط الكلاسيكي يعرض الصورة كخلفية كاملة. نمط الانقسام يضع النص على نصف ملون والصورة على النصف الآخر. نمط الصورة المركزية يخفي الصورة البارزة، يلغي جميع تراكبات الخلفية، ويعرض صورة الخلفية بجودة كاملة مع نص في المنتصف."
+
+msgid "Portal (Hero + Cards — LVN style)"
+msgstr "بوابة (بطل + بطاقات — نمط LVN)"
+
+msgid "Tourism Breeze"
+msgstr "نسيم السياحة"
+
+msgid "Gentle floating icons of sun and palm trees — perfect for travel and tourism sites."
+msgstr "أيقونات شمس ونخيل خفيفة عائمة — مثالي لصفحات السفر والسياحة."
+
+msgid "Portal Layout — Background"
+msgstr "نمط البوابة — الخلفية"
+
+msgid "Background Type"
+msgstr "نوع الخلفية"
+
+msgid "Solid Color"
+msgstr "لون ثابت"
+
+msgid "Linear Gradient"
+msgstr "تدرج خطي"
+
+msgid "Radial Gradient"
+msgstr "تدرج دائري"
+
+msgid "Gradient Colors"
+msgstr "ألوان التدرج"
+
+msgid "Start"
+msgstr "البداية"
+
+msgid "End"
+msgstr "النهاية"
+
+msgid "Gradient Angle (deg)"
+msgstr "زاوية التدرج (درجة)"
+
+msgid "Portal Layout — Pattern Overlay"
+msgstr "نمط البوابة — تراكب الأنماط"
+
+msgid "Pattern Source"
+msgstr "مصدر النمط"
+
+msgid "Basic Patterns"
+msgstr "أنماط أساسية"
+
+msgid "Geometric Shapes"
+msgstr "أشكال هندسية"
+
+msgid "Choose a geometric overlay shape. Adjust background gradient colors above and pattern colors below."
+msgstr "اختر شكل تراكب هندسي. عدّل ألوان تدرج الخلفية أعلاه وألوان النمط أدناه."
+
+msgid "Map Grid"
+msgstr "شبكة خريطة"
+
+msgid "Road Map"
+msgstr "خريطة طرق"
+
+msgid "Geometric Lines"
+msgstr "خطوط هندسية"
+
+msgid "Custom Upload (SVG/PNG)"
+msgstr "رفع مخصص (SVG/PNG)"
+
+msgid "Custom Pattern"
+msgstr "نمط مخصص"
+
+msgid "Upload"
+msgstr "رفع"
+
+msgid "Blend Mode"
+msgstr "نمط المزج"
+
+msgid "Pattern Opacity (%)"
+msgstr "شفافية النمط (%)"
+
+msgid "Pattern Scale (%)"
+msgstr "حجم النمط (%)"
+
+msgid "Pattern Primary Color"
+msgstr "اللون الأساسي للنمط"
+
+msgid "Pattern Secondary Color"
+msgstr "اللون الثانوي للنمط"
+
+msgid "Used by two-tone geometric shapes (checkerboard, diamonds, triangles, etc.)."
+msgstr "يُستخدم في الأشكال الهندسية ثنائية اللون (شطرنج، معينات، مثلثات، إلخ)."
+
+msgid "Pattern Color"
+msgstr "لون النمط"
+
+msgid "Diagonal Stripes"
+msgstr "خطوط قطرية"
+
+msgid "Horizontal Stripes"
+msgstr "خطوط أفقية"
+
+msgid "Vertical Stripes"
+msgstr "خطوط عمودية"
+
+msgid "Checkerboard"
+msgstr "شطرنج"
+
+msgid "Diamonds"
+msgstr "معينات"
+
+msgid "Triangles"
+msgstr "مثلثات"
+
+msgid "Zigzag"
+msgstr "متعرج"
+
+msgid "Circles"
+msgstr "دوائر"
+
+msgid "Rings"
+msgstr "حلقات"
+
+msgid "Hexagons"
+msgstr "سداسيات"
+
+msgid "Chevrons"
+msgstr "أسهم متتابعة"
+
+msgid "Plus Grid"
+msgstr "شبكة زائد"
+
+msgid "Wave Lines"
+msgstr "خطوط موجية"
+
+msgid "Circuit Board"
+msgstr "لوحة دوائر"
+
+msgid "Crosshatch"
+msgstr "تقاطع خطوط"
+
+msgid "Pattern Repeat"
+msgstr "تكرار النمط"
+
+msgid "Tile / Repeat"
+msgstr "تبليط / تكرار"
+
+msgid "No Repeat (Fixed)"
+msgstr "بدون تكرار (ثابت)"
+
+msgid "Cover"
+msgstr "تغطية"
+
+msgid "Pattern Position"
+msgstr "موضع النمط"
+
+msgid "Pattern Animation"
+msgstr "تحريك النمط"
+
+msgid "None (Static)"
+msgstr "بدون (ثابت)"
+
+msgid "Drift (Diagonal Flow)"
+msgstr "انجراف (تدفق قطري)"
+
+msgid "Scroll Horizontal"
+msgstr "تمرير أفقي"
+
+msgid "Scroll Vertical"
+msgstr "تمرير عمودي"
+
+msgid "Pulse (Opacity)"
+msgstr "نبض (شفافية)"
+
+msgid "Zoom (Breathing)"
+msgstr "تكبير (تنفس)"
+
+msgid "Rotate (Slow Spin)"
+msgstr "دوران (بطيء)"
+
+msgid "Float (Parallax)"
+msgstr "طفو (بارالاكس)"
+
+msgid "Adds subtle motion to the geometric pattern overlay."
+msgstr "يضيف حركة خفيفة لطبقة الأشكال الهندسية."
+
+msgid "Animation Speed (seconds)"
+msgstr "سرعة التحريك (ثوانٍ)"
+
+msgid "Higher values = slower, smoother motion."
+msgstr "قيم أعلى = حركة أبطأ وأكثر سلاسة."
+
+msgid "Portal Layout — Hero Text"
+msgstr "نمط البوابة — النص الرئيسي"
+
+msgid "Title Typography"
+msgstr "خط العنوان"
+
+msgid "Description Typography"
+msgstr "خط الوصف"
+
+msgid "Font size (px)"
+msgstr "حجم الخط (بكسل)"
+
+msgid "Font weight"
+msgstr "سمك الخط"
+
+msgid "Line height"
+msgstr "ارتفاع السطر"
+
+msgid "Portal Layout — Cards Container"
+msgstr "نمط البوابة — حاوية البطاقات"
+
+msgid "Container Spacing"
+msgstr "مسافات الحاوية"
+
+msgid "Gap"
+msgstr "الفجوة"
+
+msgid "Side padding"
+msgstr "حشو جانبي"
+
+msgid "Bottom padding"
+msgstr "حشو سفلي"
+
+msgid "Card Design"
+msgstr "تصميم البطاقة"
+
+msgid "Background"
+msgstr "الخلفية"
+
+msgid "Radius"
+msgstr "انحناء الحواف"
+
+msgid "Padding"
+msgstr "الحشو الداخلي"
+
+msgid "Box shadow"
+msgstr "ظل الصندوق"
+
+msgid "Add portal card content per slide from the slide edit screen. Card container styling is configured here."
+msgstr "أضف محتوى بطاقات البوابة لكل شريحة من صفحة تعديل الشريحة. تصميم حاوية البطاقات يُضبط هنا."
+
+msgid "Card %d"
+msgstr "البطاقة %d"
+
+msgid "Icon"
+msgstr "أيقونة"
+
+msgid "Icon box color"
+msgstr "لون مربع الأيقونة"
+
+msgid "Icon radius"
+msgstr "انحناء الأيقونة"
+
+msgid "Card title"
+msgstr "عنوان البطاقة"
+
+msgid "CTA"
+msgstr "زر الإجراء"
+
+msgid "URL"
+msgstr "الرابط"
+
+msgid "Title"
+msgstr "العنوان"
+
+msgid "CTA color"
+msgstr "لون زر الإجراء"
+
+msgid "CTA hover"
+msgstr "لون التمرير للزر"
+
+msgid "Portal Cards"
+msgstr "بطاقات البوابة"
+
+msgid "Configure portal cards for this slide. Use the slide title and excerpt for the hero headline and description."
+msgstr "اضبط بطاقات البوابة لهذه الشريحة. استخدم عنوان الشريحة والمقتطف للعنوان الرئيسي والوصف."
+
+msgid "Select a slider group with Portal layout to enable card editing."
+msgstr "اختر مجموعة سلايدر بنمط البوابة لتفعيل تعديل البطاقات."
+
+msgid "Portal layout: upload a background image per slide, or leave empty to use geometric patterns from group settings."
+msgstr "نمط البوابة: ارفع صورة خلفية لكل شريحة، أو اتركها فارغة لاستخدام الأشكال الهندسية من إعدادات المجموعة."
+
+msgid "Portal: if a background image is set it will be shown. If empty, the group geometric pattern is used instead."
+msgstr "البوابة: إذا وُضعت صورة خلفية ستُعرض. إذا تُركت فارغة يُستخدم النمط الهندسي من إعدادات المجموعة."
+
+msgid "Select Pattern"
+msgstr "اختر النمط"
+
+msgid "Select Icon"
+msgstr "اختر الأيقونة"
+
+msgid "No file selected"
+msgstr "لم يتم اختيار ملف"
+
+msgid "Slider Group"
+msgstr "مجموعة سلايدر"
+
+msgid "https://example.com/bg.jpg"
+msgstr "https://example.com/bg.jpg"
+
+msgid "Normal"
+msgstr "عادي"
+
+msgid "Multiply"
+msgstr "مضاعفة"
+
+msgid "Screen"
+msgstr "شاشة"
+
+msgid "Overlay"
+msgstr "تراكب"
+
+msgid "Darken"
+msgstr "تعتيم"
+
+msgid "Lighten"
+msgstr "تفتيح"
+
+msgid "Color Dodge"
+msgstr "تباين لوني"
+
+msgid "Color Burn"
+msgstr "حرق لوني"
+
+msgid "Hard Light"
+msgstr "إضاءة قوية"
+
+msgid "Soft Light"
+msgstr "إضاءة ناعمة"
+
+msgid "Difference"
+msgstr "فرق"
+
+msgid "Exclusion"
+msgstr "استبعاد"
